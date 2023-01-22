@@ -13,4 +13,7 @@ public class SampleClass {
 	private void madhan3() {
 		System.out.println("Handsome3");
 	}
+	private void ram() {
+	System.out.println("super");
+	}
 }
