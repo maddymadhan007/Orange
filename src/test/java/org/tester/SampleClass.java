@@ -16,4 +16,11 @@ public class SampleClass {
 	private void ram() {
 	System.out.println("super");
 	}
+	private void tamanna() {
+		System.out.println("my partner");
+
+	}
+	private void nayantara() {
+		System.out.println("my life partner"); 
+	}
 }
