@@ -22,5 +22,20 @@ public class SampleClass {
 	}
 	private void nayantara() {
 		System.out.println("my life partner"); 
+		
 	}
+	
+	private void trisha() {
+		System.out.println("my all time favourite");
+	}
+	
+	private void snekha() {
+		System.out.println("my lover");
+	}
+	
+	
+	
 }
+
+
+
