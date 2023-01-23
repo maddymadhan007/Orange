@@ -32,8 +32,9 @@ public class SampleClass {
 	private void snekha() {
 		System.out.println("my lover");
 	}
-	
-	
+	private void meena() {
+		System.out.println("meena is maddy lover");
+	}
 	
 }
 
