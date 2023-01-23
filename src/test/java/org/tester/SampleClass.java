@@ -46,13 +46,24 @@ public class SampleClass {
 	private void Simran() {
 		System.out.println("all time fevourite");
 
+
 	}
+	private void rai() {
+		System.out.println("laxmi");
+	}
+	private void ginger() {
+		System.out.println("very hot");
+	}
+
 	private void paige() {
 		System.out.println("batista");
 	}	
 	private void fair() {
 		System.out.println("madhan is fair");
-	}	
+	}
+	private void graps() {
+		System.out.println("i like it");
+	}
 }
 
 
