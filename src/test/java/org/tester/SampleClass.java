@@ -32,7 +32,9 @@ public class SampleClass {
 	private void snekha() {
 		System.out.println("my lover");
 	}
-	
+	private void ramba() {
+		System.out.println("ramba is beautiful heroin");
+	}
 	
 	
 }
