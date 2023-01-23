@@ -48,7 +48,14 @@ public class SampleClass {
 	private void rai() {
 		System.out.println("laxmi");
 	}
+	private void ginger() {
+		System.out.println("very hot");
+	}
+	private void graps() {
+		System.out.println("i like it");
+	}
 }
+
 
 
 
