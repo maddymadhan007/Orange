@@ -40,8 +40,10 @@ public class SampleClass {
 	private void meena() {
 		System.out.println("meena is maddy lover");
 	}
+	private void Simran() {
+	System.out.println("all time fevourite");
 
-}
+}}
 
 
 
