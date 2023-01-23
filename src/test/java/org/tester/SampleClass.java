@@ -37,6 +37,9 @@ public class SampleClass {
 		System.out.println("ramba is beautiful heroin");
 	}
 
+
+
+
 	private void meena() {
 		System.out.println("meena is maddy lover");
 	}
@@ -51,11 +54,17 @@ public class SampleClass {
 	private void ginger() {
 		System.out.println("very hot");
 	}
+
+	private void paige() {
+		System.out.println("batista");
+	}	
+	private void fair() {
+		System.out.println("madhan is fair");
+	}
 	private void graps() {
 		System.out.println("i like it");
 	}
 }
-
 
 
 
