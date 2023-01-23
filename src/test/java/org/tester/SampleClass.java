@@ -14,7 +14,7 @@ public class SampleClass {
 		System.out.println("Handsome3");
 	}
 	private void ram() {
-	System.out.println("super");
+		System.out.println("super");
 	}
 	private void tamanna() {
 		System.out.println("my partner");
@@ -22,22 +22,28 @@ public class SampleClass {
 	}
 	private void nayantara() {
 		System.out.println("my life partner"); 
-		
+
 	}
-	
+
 	private void trisha() {
 		System.out.println("my all time favourite");
 	}
-	
+
 	private void snekha() {
 		System.out.println("my lover");
 	}
+
 	private void ramba() {
 		System.out.println("ramba is beautiful heroin");
 	}
-	
-	
-}
+
+	private void meena() {
+		System.out.println("meena is maddy lover");
+	}
+	private void Simran() {
+	System.out.println("all time fevourite");
+
+}}
 
 
 
