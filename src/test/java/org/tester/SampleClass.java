@@ -41,9 +41,14 @@ public class SampleClass {
 		System.out.println("meena is maddy lover");
 	}
 	private void Simran() {
-	System.out.println("all time fevourite");
+		System.out.println("all time fevourite");
 
-}}
+
+	}
+	private void rai() {
+		System.out.println("laxmi");
+	}
+}
 
 
 
