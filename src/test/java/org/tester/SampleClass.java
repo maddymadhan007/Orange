@@ -37,20 +37,22 @@ public class SampleClass {
 		System.out.println("ramba is beautiful heroin");
 	}
 
-	
+
 
 
 	private void meena() {
 		System.out.println("meena is maddy lover");
 	}
 	private void Simran() {
-	System.out.println("all time fevourite");
+		System.out.println("all time fevourite");
 
-}
+	}
 	private void paige() {
 		System.out.println("batista");
 	}	
-	
+	private void fair() {
+		System.out.println("madhan is fair");
+	}	
 }
 
 
